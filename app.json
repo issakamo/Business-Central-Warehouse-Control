@@ -5,12 +5,12 @@
   "version": "1.0.0.0",
   "brief": "Inventory exception detection and warehouse management for Business Central.",
   "description": "This extension provides a comprehensive solution for managing inventory exceptions and warehouse operations within Microsoft Dynamics 365 Business Central. It enables users to identify, track, and resolve inventory discrepancies efficiently, ensuring accurate stock levels and streamlined warehouse processes.",
-  "privacyStatement": "This extension collects and processes data related to inventory management and warehouse operations. The data is used solely for the purpose of improving inventory accuracy and operational efficiency. No personal data is collected or shared with third parties.",
-  "EULA": "Open-source license: This extension is provided under the MIT License, allowing users to freely use, modify, and distribute the software while providing proper attribution to the original author.",
-  "help": "",
+  "privacyStatement": "https://github.com/issakamo/Business-Central-Warehouse-Control",
+  "EULA": "https://github.com/issakamo/Business-Central-Warehouse-Control",
+  "help": "https://github.com/issakamo/Business-Central-Warehouse-Control",
   "contextSensitiveHelpUrl": "https://learn.microsoft.com/dynamics365/business-central/",
-  "url": "",
-  "logo": "",
+  "url": "https://github.com/issakamo/Business-Central-Warehouse-Control",
+  "logo": "resources/logo.jpg",
   "dependencies": [],
   "screenshots": [],
   "platform": "28.0.53152.0",
@@ -26,7 +26,7 @@
     "allowDownloadingSource": true,
     "includeSourceInSymbolFile": true
   },
-  "applicationInsightsConnectionString": "",
+  
   "runtime": "17.0",
   "target": "Cloud",
   "features": [

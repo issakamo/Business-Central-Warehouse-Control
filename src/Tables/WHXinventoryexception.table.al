@@ -1,5 +1,9 @@
 namespace WarehouseControl.Warehouse;
 
+using Microsoft.Inventory.Item;
+using Microsoft.Inventory.Location;
+using Microsoft.Warehouse.Structure;
+
 table 50100 "WHX Inventory Exception"
 {
     DataClassification = CustomerContent;

@@ -3,6 +3,41 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Warehouse Exception Management">
     <body>
       <group id="body">
+        <trans-unit id="Table 84125469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WHX Exception Cue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Exception Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 84125469 - Field 33714505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Critical Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Exception Cue - Field Critical Exceptions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 84125469 - Field 1638211860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>High Priority Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Exception Cue - Field High Priority Exceptions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 84125469 - Field 4271131636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Exception Cue - Field Open Exceptions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 84125469 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Exception Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 84125469 - Field 1335098385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiving Discrepancies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Exception Cue - Field Receiving Discrepancies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 84125469 - Field 3757724547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock Discrepancies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Exception Cue - Field Stock Discrepancies - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 219155822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Inventory Exceptions</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -82,6 +117,66 @@
           <source>Status</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table WHX Inventory Exception - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 3959405189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Main - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 33714505 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of critical inventory exceptions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Critical Exceptions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 33714505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Critical Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Critical Exceptions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 1638211860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of high priority inventory exceptions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control High Priority Exceptions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 1638211860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>High Priority Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control High Priority Exceptions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 4271131636 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of open inventory exceptions.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Open Exceptions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 4271131636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Open Exceptions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 1335098385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of receiving discrepancies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Receiving Discrepancies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 1335098385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Receiving Discrepancies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Receiving Discrepancies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 3757724547 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of stock discrepancies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Stock Discrepancies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 84125469 - Control 3757724547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stock Discrepancies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WHX Exception Cue - Control Stock Discrepancies - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3840431306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Inventory Exception</source>

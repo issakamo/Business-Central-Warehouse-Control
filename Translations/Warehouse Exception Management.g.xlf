@@ -458,6 +458,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page WHX Inventory Exception List - Action Resolve - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3246530604 - Action 2372530430 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3246530604">
+          <source>Generates sample inventory and receiving exceptions for testing purposes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WHX Exception List Dev Ext - Action WHXGenerateSampleData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3246530604 - Action 2372530430 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3246530604">
+          <source>Generate Sample Data (Dev Only)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WHX Exception List Dev Ext - Action WHXGenerateSampleData - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3979884761 - Action 435898914 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
           <source>View all exceptions for this item.</source>
           <note from="Developer" annotates="general" priority="2"></note>

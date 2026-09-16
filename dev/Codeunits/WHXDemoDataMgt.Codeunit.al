@@ -19,4 +19,11 @@ codeunit 50102 "WHX Demo Data Mgt"
         ExceptionMgt.CreateReceivingException('1920-S', 'YELLOW', 80, 40);         // 50% -> Critical
         ExceptionMgt.CreateReceivingException('1896-S', 'WHITE', 60, 55);        // ~8.3% -> Medium
     end;
+
+    procedure ClearSampleExceptions()
+    var
+        InventoryException: Record "WHX Inventory Exception";
+    begin
+        InventoryException.DeleteAll(false);
+    end;
 }

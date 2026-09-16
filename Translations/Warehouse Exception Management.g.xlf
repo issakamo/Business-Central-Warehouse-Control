@@ -118,6 +118,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table WHX Inventory Exception - Field Status - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 749530195 - Field 1300919661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Item Count Buffer - Field Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 749530195 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Item Count Buffer - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1174386282 - Field 1300919661 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Priority Count Buffer - Field Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1174386282 - Field 4130293374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priority</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WHX Priority Count Buffer - Field Priority - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 84125469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Inventory Exceptions</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -457,6 +477,36 @@
           <source>Resolve</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page WHX Inventory Exception List - Action Resolve - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 819212198 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Exception Summary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report WHX Exception Summary Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3309581096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Exception Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report WHX Inventory Exception Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3309581096 - Control 2979589024 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select this option to include resolved exceptions in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report WHX Inventory Exception Report - Control IncludeResolved - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3309581096 - Control 2979589024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Resolved Exceptions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report WHX Inventory Exception Report - Control IncludeResolved - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3246530604 - Action 1026731708 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3246530604">
+          <source>Deletes all inventory exception records. Use with caution.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WHX Exception List Dev Ext - Action WHXClearSampleData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3246530604 - Action 1026731708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3246530604">
+          <source>Clear Sample Data (Dev Only)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension WHX Exception List Dev Ext - Action WHXClearSampleData - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3246530604 - Action 2372530430 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3246530604">
           <source>Generates sample inventory and receiving exceptions for testing purposes.</source>

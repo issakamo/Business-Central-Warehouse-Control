@@ -1,6 +1,6 @@
 namespace WarehouseControl.Warehouse;
 
-codeunit 50103 "WHX Exception Reporting Mgt."
+codeunit 50103 "WHX Exception Reporting Mgt"
 {
     procedure BuildPriorityBuffer(var Buffer: Record "WHX Priority Count Buffer" temporary)
     var

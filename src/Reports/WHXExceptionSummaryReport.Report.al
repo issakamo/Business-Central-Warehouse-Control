@@ -17,7 +17,7 @@ report 50101 "WHX Exception Summary Report"
 
             trigger OnPreDataItem()
             var
-                WHXReportingMgt: Codeunit "WHX Exception Reporting Mgt.";
+                WHXReportingMgt: Codeunit "WHX Exception Reporting Mgt";
             begin
                 WHXReportingMgt.BuildPriorityBuffer(PriorityBuffer);
             end;
@@ -29,7 +29,7 @@ report 50101 "WHX Exception Summary Report"
 
             trigger OnPreDataItem()
             var
-                WHXReportingMgt: Codeunit "WHX Exception Reporting Mgt.";
+                WHXReportingMgt: Codeunit "WHX Exception Reporting Mgt";
             begin
                 WHXReportingMgt.BuildItemBuffer(ItemBuffer);
             end;

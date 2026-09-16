@@ -623,6 +623,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum WHX Exception Type - EnumValue Stock Discrepancy - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PermissionSet 1739845452 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Exception Manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet WHX Exception Mgr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 113690187 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Exception User</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet WHX Exception User - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>

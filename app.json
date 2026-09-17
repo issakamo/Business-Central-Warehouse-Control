@@ -1,15 +1,15 @@
 {
   "id": "9af83863-f5d7-40df-9815-e8a9795cc78c",
-  "name": "Warehouse Exception Management",
+  "name": "Business Central Warehouse Control",
   "publisher": "Issaka Mohammed",
   "version": "1.0.0.0",
-  "brief": "Inventory exception detection and warehouse management for Business Central.",
-  "description": "This extension provides a comprehensive solution for managing inventory exceptions and warehouse operations within Microsoft Dynamics 365 Business Central. It enables users to identify, track, and resolve inventory discrepancies efficiently, ensuring accurate stock levels and streamlined warehouse processes.",
-  "privacyStatement": "https://github.com/issakamo/Business-Central-Warehouse-Control",
-  "EULA": "https://github.com/issakamo/Business-Central-Warehouse-Control",
-  "help": "https://github.com/issakamo/Business-Central-Warehouse-Control",
-  "contextSensitiveHelpUrl": "https://learn.microsoft.com/dynamics365/business-central/",
-  "url": "https://github.com/issakamo/Business-Central-Warehouse-Control",
+  "brief": "Automated inventory exception detection and warehouse visibility for Business Central.",
+  "description": "Detects stock discrepancies and receiving variances automatically during posting, prioritizes them by variance severity, and surfaces them through a dashboard, Item Card integration, and management reporting.",
+  "privacyStatement": "https://github.com/issakamo/business-central-warehouse-control/blob/main/docs/privacy.md",
+  "EULA": "https://github.com/issakamo/business-central-warehouse-control/blob/main/LICENSE",
+  "help": "https://github.com/issakamo/business-central-warehouse-control/blob/main/README.md",
+  "contextSensitiveHelpUrl": "https://github.com/issakamo/business-central-warehouse-control/blob/main/docs/architecture.md",
+  "url": "https://github.com/issakamo/business-central-warehouse-control",
   "logo": "resources/logo.jpg",
   "dependencies": [
     {

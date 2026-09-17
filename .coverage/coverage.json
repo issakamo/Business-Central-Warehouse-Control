@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "coverageData": [],
+  "testStatus": {
+    "50120|CreateStockException_MismatchCreatesRecord": 0,
+    "50120|CreateStockException_NoMismatchCreatesNothing": 0,
+    "50120|ZeroExpected_YieldsHighPriority": 0,
+    "50120|ResolveException_WithoutNotesFails": 0,
+    "50120|ResolveException_WithNotesSucceeds": 0,
+    "50121|BuildPriorityBuffer_AggregatesCorrectly": 0,
+    "50121|BuildPriorityBuffer_ExcludesResolved": 0,
+    "50121|BuildItemBuffer_SortsDescendingByCount": 0
+  }
+}

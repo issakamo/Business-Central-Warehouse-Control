@@ -22,14 +22,14 @@ before proceeding.
 ## 2. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/business-central-warehouse-control.git
+git clone https://github.com/issakamo/business-central-warehouse-control.git
 cd business-central-warehouse-control
 ```
 
 ## 3. Configure your local launch settings
 
-`launch.json` is intentionally **not** committed (it contains your
-container's server URL and credentials). Copy the example and fill
+`launch.json` is intentionally **not** committed (it contains my
+container's server URL and credentials). Copy the examplea, remane it launch.json and fill
 in your own values:
 
 ```bash
@@ -70,16 +70,16 @@ extension.
 ## 7. Run automated tests
 
 Open any file under `test/Codeunits/` and use the **Run Test**
-CodeLens above the codeunit or an individual test procedure — or use
+CodeLens above the codeunit or an individual test procedure or use
 the **Test Tool** page inside the Business Central Web Client to run
 the full suite.
 
 ## Troubleshooting
 
 - **Compile errors referencing missing tables/codeunits after pulling
-  changes** — re-run AL: Download Symbols; a dependency may have
+  changes** and re-run AL: Download Symbols; a dependency may have
   changed.
-- **Event subscribers appear to have no effect** — event signatures
+- **Event subscribers appear to have no effect**: event signatures
   are version-sensitive. Verify the subscriber's parameter list still
   matches the publisher's actual signature in your container's
   symbols (Go to Definition on the base app codeunit) before assuming

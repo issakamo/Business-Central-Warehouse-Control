@@ -6,15 +6,15 @@ Inventory exception detection and management for Dynamics 365 Business Central.
 
 Warehouse teams using Business Central often can't easily see stock
 discrepancies, receiving variances, or low-stock conditions until they've
-already caused downstream problems — a purchase order posted against
+already caused downstream problems. A purchase order posted against
 wrong stock, a customer order that can't be fulfilled. Business Central
 has no built-in mechanism to flag these issues as they happen.
 
 ## Solution
 
 This extension detects inventory discrepancies automatically as they
-occur during real posting processes — physical inventory counts and
-purchase receipts — and surfaces them through a dedicated exception
+occur during real posting processes; physical inventory counts and
+purchase receipts, and surfaces them through a dedicated exception
 workflow rather than requiring manual reconciliation.
 
 - **Automatic detection** via event subscribers on standard posting
@@ -44,7 +44,7 @@ FlowField usage, AppSourceCop suppressions).
 
 src/ Extension objects (tables, pages, codeunits, reports, permissions)
 test/ Automated test codeunits
-dev/ Local development tooling — sample data generation (not for release)
+dev/ Local development tooling: sample data generation (not for release)
 docs/ Architecture and design documentation
 
 ## Key Features
@@ -70,6 +70,6 @@ Requires a local Business Central Docker container. See
 
 ## Status
 
-Actively in development — Project 1 of a 3-project portfolio. Projects
+Actively in development: Project 1 of a 3-project portfolio. Projects
 2 (Purchase-to-Pay) and 3 (Integration Hub) are planned as separate
 extensions building on the same conventions.
